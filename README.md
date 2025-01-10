@@ -99,7 +99,6 @@ Comprehensive interface for document interaction:
 1. Landing Page
 ![image](https://github.com/user-attachments/assets/968557ef-b5c9-48e5-836f-7727b2691492)
 
-2. Dashboard Page
 ![image](https://github.com/user-attachments/assets/bbf03a08-e32c-4346-9a3f-507bb163aed6)
 
 4. Document Analysis Page
