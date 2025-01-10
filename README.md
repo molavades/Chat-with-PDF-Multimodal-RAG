@@ -16,8 +16,8 @@ An interactive RAG based application built using FastAPI and Streamlit to explor
 
 With the rapid growth of publications, it has become increasingly challenging to analyze complex documents, interpret images and graphs, and derive meaningful business insights. This project aims to create a robust solution that allows users to interact with documents through Q&A functionality. By leveraging Retrieval-Augmented Generation (RAG), the application provides relevant responses, images, and graphs specific to user questions, simplifying the analysis process and enabling users to obtain accurate insights efficiently. The application primarily focuses on:
 
-**1. Content Extraction and Storage**: Extract content from the CFA Institute Research Foundation website, loading files onto S3 and storing textual data, such as titles and summaries, in a Snowflake database.
-**2. Automated Data Ingestion**: Automate the data ingestion process with an Airflow pipeline, ensuring efficient and structured data handling.
+1. **1. Content Extraction and Storage**: Extract content from the CFA Institute Research Foundation website, loading files onto S3 and storing textual data, such as titles and summaries, in a Snowflake database.
+2. **2. Automated Data Ingestion**: Automate the data ingestion process with an Airflow pipeline, ensuring efficient and structured data handling.
 **3. API Endpoints**: Develop multiple API endpoints to support services like document exploration and dropdown selection for document access, RAG interaction with UI.
 **4. Real-Time Summary Generation**: Generate document summaries on the fly using NVIDIA’s advanced services.
 **5. Multi-Modal RAG with Cleanlabs Integration**: Implement multi-modal RAG to enhance response relevance and integrate Cleanlabs for response trustworthiness.
