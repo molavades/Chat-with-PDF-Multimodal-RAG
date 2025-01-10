@@ -96,16 +96,11 @@ Comprehensive interface for document interaction:
 
 ## Screenshots 
 
-1. Landing Page
-![image](https://github.com/user-attachments/assets/968557ef-b5c9-48e5-836f-7727b2691492)
+1. Landing Page ![image](https://github.com/user-attachments/assets/968557ef-b5c9-48e5-836f-7727b2691492)
+2. Dashboard Page ![image](https://github.com/user-attachments/assets/aeca3bef-f453-4003-83d4-73fbe0562ed2)
+3. Document Analysis Page ![image](https://github.com/user-attachments/assets/31d801ad-6f63-4788-b667-f44a7bcc3c23)
+4. Chat with PDF ![image](https://github.com/user-attachments/assets/6aa78500-f337-4b8a-9acf-114b1a8e320f)
 
-![image](https://github.com/user-attachments/assets/bbf03a08-e32c-4346-9a3f-507bb163aed6)
-
-4. Document Analysis Page
-![image](https://github.com/user-attachments/assets/7ad8543e-a435-4874-8824-176bc1e638bc)
-
-5. Chat with Pdf Page
-![image](https://github.com/user-attachments/assets/c4d03af1-a1d5-4fae-ba78-fd47148b59aa)
 
 
 ## Setup and Deployment
