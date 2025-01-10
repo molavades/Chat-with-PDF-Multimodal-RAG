@@ -94,12 +94,19 @@ Comprehensive interface for document interaction:
 ## Data Source
 1. CFA Institute Research Foundation Publications: https://rpc.cfainstitute.org/en/research-foundation/publications#sort=%40officialz32xdate%20descending&f:SeriesContent=%5BResearch%20Foundation%5D
 
-## Screenshots 
+## Screenshots
 
-1. Landing Page ![image](https://github.com/user-attachments/assets/968557ef-b5c9-48e5-836f-7727b2691492)
-2. Dashboard Page ![image](https://github.com/user-attachments/assets/aeca3bef-f453-4003-83d4-73fbe0562ed2)
-3. Document Analysis Page ![image](https://github.com/user-attachments/assets/31d801ad-6f63-4788-b667-f44a7bcc3c23)
-4. Chat with PDF ![image](https://github.com/user-attachments/assets/6aa78500-f337-4b8a-9acf-114b1a8e320f)
+1. **Landing Page**  
+   ![Landing Page](https://github.com/user-attachments/assets/968557ef-b5c9-48e5-836f-7727b2691492)
+
+2. **Dashboard Page**  
+   ![Dashboard Page](https://github.com/user-attachments/assets/aeca3bef-f453-4003-83d4-73fbe0562ed2)
+
+3. **Document Analysis Page**  
+   ![Document Analysis Page](https://github.com/user-attachments/assets/31d801ad-6f63-4788-b667-f44a7bcc3c23)
+
+4. **Chat with PDF**  
+   ![Chat with PDF](https://github.com/user-attachments/assets/6aa78500-f337-4b8a-9acf-114b1a8e320f)
 
 
 ## Setup and Deployment
