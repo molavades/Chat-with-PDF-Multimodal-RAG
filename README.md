@@ -12,7 +12,7 @@
 
 An interactive RAG based application built using FastAPI and Streamlit to explore and analyze publications from the CFA Institute Research Foundation. The application extract contents from the publications including images, graphs, PDF files and stores them in Snowflake database and Chroma DB. Users can interactively explore documents, generate on-the-fly summaries, and retrieve insights using multi-modal Retrieval-Augmented Generation (RAG) approach. This application supports Q/A functionality, incremental indexing of research notes, and comprehensive search within documents enhancing document discovery and analysis.
 
-**Problem Statement**
+## Problem Statement
 
 With the rapid growth of publications, it has become increasingly challenging to analyze complex documents, interpret images and graphs, and derive meaningful business insights. This project aims to create a robust solution that allows users to interact with documents through Q&A functionality. By leveraging Retrieval-Augmented Generation (RAG), the application provides relevant responses, images, and graphs specific to user questions, simplifying the analysis process and enabling users to obtain accurate insights efficiently. The application primarily focuses on:
 
