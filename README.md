@@ -12,19 +12,16 @@
 
 An interactive RAG based application built using FastAPI and Streamlit to explore and analyze publications from the CFA Institute Research Foundation. The application extract contents from the publications including images, graphs, PDF files and stores them in Snowflake database and Chroma DB. Users can interactively explore documents, generate on-the-fly summaries, and retrieve insights using multi-modal Retrieval-Augmented Generation (RAG) approach. This application supports Q/A functionality, incremental indexing of research notes, and comprehensive search within documents enhancing document discovery and analysis.
 
-
 ### Problem Statement
-The challenge we addressed was to create an intelligent system that could effectively process, analyze, and present CFA Institute's research publications. We needed to handle both text and visual content, implement retrieval mechanisms, and provide users with tools to interact with this knowledge base effectively.
-
 With the rapid growth of publications, it has become increasingly challenging to analyze complex documents, interpret images and graphs, and derive meaningful business insights. This project aims to create a robust solution that allows users to interact with documents through Q&A functionality. By leveraging Retrieval-Augmented Generation (RAG), the application provides relevant responses, images, and graphs specific to user questions, simplifying the analysis process and enabling users to obtain accurate insights efficiently. The application primarily focuses on:
 
-Content Extraction and Storage: Extract content from the CFA Institute Research Foundation website, loading files onto S3 and storing textual data, such as titles and summaries, in a Snowflake database.
-Automated Data Ingestion: Automate the data ingestion process with an Airflow pipeline, ensuring efficient and structured data handling.
-API Endpoints: Develop multiple API endpoints to support services like document exploration and dropdown selection for document access, RAG interaction with UI.
-Real-Time Summary Generation: Generate document summaries on the fly using NVIDIA’s advanced services.
-Multi-Modal RAG with Cleanlabs Integration: Implement multi-modal RAG to enhance response relevance and integrate Cleanlabs for response trustworthiness.
-Comprehensive Report Generation: Create reports that include responses, images, and graphs relevant to user queries for a richer understanding.
-Research Notes Validation and Indexing: Validate, store, and incrementally index research notes to facilitate efficient future searches and analysis.
+1. Content Extraction and Storage: Extract content from the CFA Institute Research Foundation website, loading files onto S3 and storing textual data, such as titles and summaries, in a Snowflake database.
+2. Automated Data Ingestion: Automate the data ingestion process with an Airflow pipeline, ensuring efficient and structured data handling.
+3. API Endpoints: Develop multiple API endpoints to support services like document exploration and dropdown selection for document access, RAG interaction with UI.
+4. Real-Time Summary Generation: Generate document summaries on the fly using NVIDIA’s advanced services.
+5. Multi-Modal RAG with Cleanlabs Integration: Implement multi-modal RAG to enhance response relevance and integrate Cleanlabs for response trustworthiness.
+6. Comprehensive Report Generation: Create reports that include responses, images, and graphs relevant to user queries for a richer understanding.
+7. Research Notes Validation and Indexing: Validate, store, and incrementally index research notes to facilitate efficient future searches and analysis.
 
 ### Scope
 The project encompasses several key areas that work together to create a comprehensive solution:
@@ -38,14 +35,6 @@ The Multi-modal RAG Implementation represents the core of our system. It process
 The User Interface provides an intuitive way to interact with the system. Through Streamlit, we've created a responsive frontend that allows users to explore documents, ask questions, and generate comprehensive reports. The interface is designed to be both powerful and easy to use.
 
 The Backend Services, built with FastAPI, handle all the complex processing while ensuring security and performance. These services manage everything from user authentication to document analysis, providing a robust foundation for the entire system.
-
-### Key Features
-
-Our Data Processing capabilities are comprehensive and automated. The system handles document extraction, including both text and images, and processes this content to enable intelligent retrieval. The processed data is then stored securely and efficiently in snowflake and AWS.
-
-The Document Analysis system is powered by llm models that understand both text and visual content. Users can generate summaries, ask questions, and receive answers that draw from the entire knowledge base. The system maintains context awareness, ensuring responses are relevant and accurate.
-
-Our Report Generation feature creates professional documents that combine text and visual elements in the responses. These visual knowledge in reports make it easy to share insights from the analysis.
 
 ## Architecture Diagram:
 ![multi-modal_rag_system](https://github.com/user-attachments/assets/0efea28d-9969-48b4-8fb9-2073f7508273)
