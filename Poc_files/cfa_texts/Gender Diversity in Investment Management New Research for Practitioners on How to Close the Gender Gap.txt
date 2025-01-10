@@ -1,0 +1,21 @@
+In the last year, CFA Institute, along with many professional organizations, began to look more closely at the composition of its membership. We found a surprising number: Women represent less than one in five CFA® charterholders. Why would this be?
+The most enduring principle of sound investment management is diversification, yet it is remarkably absent from team construction across all spectrums of the investment profession. Can we improve investor outcomes through increased diversity in general, starting with the gender gap?
+The idea that gender diverse teams have better outcomes in terms of corporate earnings and investment returns has been the subject of a growing number of industry papers1and even some new investment products, although academic findings to date have been mixed.2Furthermore, this is a topic that centers around firm culture, an important but understudied subject in the financial industry,3and a lot of the work around cognitive diversity or collective intelligence has been done in other fields.4
+Now, however, culture as a competitive edge is a growing area of interest in the investment industry, and the subject is of increasing concern to regulators of financial firms as well. Senior leaders across the industry who are adept at solving difficult problems have told us they can’t seem to make progress in terms of attracting and retaining women investment professionals.
+To uncover some of the underlying causes of the gender disparity in investment management, we developed a survey in consultation with finance scholars Renee Adams, Brad Barber, and Terrance Odean. We drew some questions from surveys conducted of the general population, which then allowed us to compare views of men and women generally with views of men and women in the investment profession, using CFA Institute members as a proxy for the profession. We sent the survey to our membership in May 2016 and received responses from over 5,000 CFA members (more than 4,000 men and more than 1,000 women).
+Adams, Barber, and Odean then analyzed the anonymized CFA survey data and compared the survey results with several additional datasets to investigate the question of why women are underrepresented in this field. The result of their efforts is the working paper titled “Family, Values, and Women in Finance” (2016) available onSSRN.5
+Although we anticipate additional research will be generated from this dataset, the initial working paper provides an important first step in understanding the factors that modulate gender representation in investing.
+In this executive summary, we highlight some key findings from the May 2016 CFA institute survey and Adams et al.
+
+
+
+For two recent reviews of the literature on corporate board diversity and firm performance, see Renee Adams, “Women on Boards: The Superheroes of Tomorrow?”Leadership Quarterly, vol. 27, no. 3 (2016): 371–386 (http://dx.doi.org/10.1016/j.leaqua.2015.11.001) and Deborah Rhode and Amanda Packel, “Diversity on Corporate Boards: How Much Difference Does Difference Make?”Delaware Journal of Corporate Law, vol 39, no. 2 (2014):www.djcl.org/volume-39/2014-%e2%80%a2-volume-39-%e2%80%a2-number-2-2. Analyses of women CEOs are hampered by the fact that there are only 22 women CEOs in the S&P 500 Index. (SeeCatalyst. Women CEOs of the S&P 500. New York: Catalyst, July 1, 2016).
+
+
+John R. Graham, Campbell R. Harvey, Jillian A. Popadak, and Shivaram Rajgopal, “Corporate Culture: Evidence from the Field,” Duke I&E Research Paper No. 2016-33 (July 7, 2016):http://ssrn.com/abstract=2805602.
+
+
+For example, see Anita Williams Woolley, Ishani Aggarwal, and Thomas W. Malone, “Collective Intelligence and Group Performance,”Current Directions in Psychological Science, vol. 24, no. 6 (2015): 420–424 (https://www.researchgate.net/publication/286512331_Collective_Intelligence_and_Group_Performance).
+
+
+Renée Adams, Brad Barber, and Terrance Odean, “Mores, Math, and Women in Finance,” working paper, 2016: ssrn.com.

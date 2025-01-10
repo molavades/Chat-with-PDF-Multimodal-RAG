@@ -1,0 +1,16 @@
+Each chapter takes you on a well-guided tour of the development and application of specific AI and big data techniques and brings you up to the minute on how they are being used by asset managers. Given the diverse backgrounds and affiliations of our authors, this book is the perfect companion to start, refine, or plan the next phase of your data science journey.
+This book is the latest in a series of research initiatives from CFA Institute aimed at equipping practitioners and policymakers with the tools needed to evaluate and incorporate data science with the highest standards. Two precursors to this book will help set the stage for deeper appreciation. They are T-Shaped Teams: Organizing to Adopt AI and Big Data at Investment Firms and AI Pioneers in Investment Management. We’re also creating active learning opportunities, including our recently launched professional learning courses.
+Foreword: Aaron Low, PhD, CFA
+Introduction: Larry Cao, CFA
+1. On Machine Learning Applications in InvestmentsMike Chen, PhD, and Weili Zhou, CFA (Robeco)
+2. Alternative Data and AI in Investment ResearchIngrid Tierens, PhD, CFA, and Dan Duggan, PhD (Goldman Sachs Global Investment Research)
+3. Data Science for Active and Long-Term Fundamental InvestingKai Cui, PhD, and Jonathan Shahrabani (Neuberger Berman)
+4. Unlocking Insights and Opportunities with NLP in Asset ManagementAndrew Chin, Yuyu Fan, and Che Guan (AllianceBernstein)
+5. Advances in Natural Language Understanding for Investment ManagementStefan Jansen, CFA (Applied AI)
+6. Extracting Text-Based ESG Insights: A Hands-On GuideTal Sansani, CFA (Off-Script Systems and CultureLine.ai) and Mikhail Samonov, CFA (Two Centuries Investments and CultureLine.ai)
+7. Machine Learning and Big Data Trade Execution SupportErin Stanton (Virtu Financial)
+8. Machine Learning for Microstructure Data-Driven Execution AlgorithmsPeer Nagy, James Powrie, PhD, and Stefan Zohren, PhD (Man Group)
+9. Intelligent Customer Service in FinanceXu Liang, PhD (Ping An OneConnect)
+10. Accelerated AI and Use Cases in Investment ManagementJochen Papenbrock, Doctorate (NVIDIA)
+11. Symbolic AI: A Case StudyHuib Vaessen (APG Asset Management)
+

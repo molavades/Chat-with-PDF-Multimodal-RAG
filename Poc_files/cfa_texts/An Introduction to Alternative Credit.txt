@@ -1,0 +1,17 @@
+Investors’ intensifying quest for outsized returns over the past decade has driven many to first-time and increased allocations to alternative investments that include private equity, private credit, venture debt, and real estate assets. In this book, practitioners introduce investors to the features that make alternative credit investments a valuable addition to a portfolio, as well as some of the risks in the class.
+As bank lending tightened due to stricter regulations after the 2008 global financial crisis, alternative credit gained increased traction—expanding to fill the void left by retreating financial institutions. Although alternative credit transactions vary greatly and lack standardized features, they broadly encompass transactions outside the traditional public fixed-income market.
+There is a widespread view that the bespoke nature of its transactions—its illiquidity, longer time horizons, and due diligence costs—make the alternative credit class unfit for most retail investors. The book’s contributors address this point, observing that customized alternative credit transactions by nature carry idiosyncratic risk; however, that risk actually makes these investments less sensitive to broader macro risks. Furthermore, they emphasize that the illiquidity of these transactions can be an advantage by tending to make the investments less prone to panic selling.
+In the book’s introduction, Alfonso Ricciardelli, CFA, explains that alternative credit investing covers any type of lending that is not included in the traditional fixed-income category and that several characteristics distinguish it from traditional investment strategies. He cautions that the customization inherent in these transactions makes grouping them difficult: The class bears no standardized features, unlike public market fixed income.
+Each contributor to the book takes a deep dive into one of seven types of alternative credit sub asset classes. They tackle their histories, characteristics, risks, returns, and future potential, delivering practitioners’ insights into all areas to provide investors with a deeper appreciation of these classes overall. The seven types are as follows:
+The book’s concluding chapter, “The Future of Alternative Credit,” discusses the sentiment in the sector and its anticipated exponential growth. Alternative Fund Advisors’ Mike Dowdall, CFA, asserts that the alternative credit market asset class is poised to continue its rapid growth, with strong secular tailwinds to drive the industry over the coming decade—namely, technological progress, continued regulatory pressure on banks, an aging population searching for steady yields, and an industry well-suited to meet the preferences of modern investors.
+IntroductionAlfonso Ricciardelli, CFA
+Main Features of Alternative Credit InvestmentsTrevor Castledine, Kathryn Saklatvala, and Thibault Sandret
+Direct LendingStephan Connelly, CFA, and Trevor Castledine
+Collateralized Loan ObligationsDavid Preston, CFA
+Consumer LoansNils Hertzner and Nikita Saygakov, CFA
+Trade FinanceQing Fan and Dave Skirzenski
+Real Estate LoansAdil Hasan
+Infrastructure DebtNick Cleary
+Venture DebtZack Ellison, CFA
+The Future of Alternative Credit Is BrightMike Dowdall, CFA
+

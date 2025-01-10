@@ -1,0 +1,245 @@
+
+
+
+1The termbeneficiarycan mean a
+	                single individual or a beneficiary plus spouse. When the term encompasses two
+	                individuals, the lifespan measured is the joint lifespan. For purposes of
+	                expositional clarity, we assume that the annuitant, payer, and contract owner
+	                are the same.
+
+
+2In the Middle Ages, merchants often traded personal wealth to
+	                local monasteries in exchange for the promise of lifetime support and protection
+	                for themselves and their families within the confines of the monastic
+	                institution. Many monasteries later found themselves in grave financial crisis
+	                because they failed to collect sufficient wealth to fund long-term obligations.
+	                The reverse annuity mortgage plans of the 1980s were initially privately
+	                insured. It was not until the early 1990s that the Federal Housing
+	                Administration initiated government involvement.
+
+
+3To simplify the example, we describe the form of contract known as
+	                atontine, which is illegal because it might
+	                encourage some participants to take steps to ensure the premature demise of
+	                other pool members. An insurance company, however, pools many individuals into
+	                contracts in which the death of any one member does not affect the payout
+	                promised to the remaining annuitants (i.e., there are no “death
+	                dividends” to reward the survivors). Moshe A. Milevsky provides an
+	                in-depth discussion of annuity-pricing principles in his monographLife Annuities: An Optimal Product for Retirement Income(Charlottesville, VA: CFA Institute Research Foundation, 2013).
+
+
+4Technically, profits and losses emerge over time as experience
+	                dictates whether the liability reserve for the annuity payments is conservative
+	                (profits) or inadequate (losses).
+
+
+5It is misleading, however, to compare the annuity yield with the
+	                current yield paid by a bond or a CD. Bonds and CDs usually involve a return of
+	                principal, whereas the replicating portfolio for an annuity payout is a series
+	                of zero-coupon bonds with a 100% probability of eventual default. This is truly
+	                an oranges-to-apples comparison.
+
+
+6In California, for example, the 2014 amount of contract
+“nonforfeiture” value that is covered under state guarantee fund
+provisions is 80% of the present value of annuity benefits, including net cash
+surrender and net cash withdrawal values up to a maximum of $250,000. The rules
+are complicated. Coverage may apply to each annuitant in a joint contract,
+benefits may be subject to interest rate adjustments, moving to another state
+may trigger different benefit levels, and so on. Although it is wise to
+diversify the annuity portfolio over several insurance companies unless the
+annuity is of a type that is segregated from creditor claims against the
+insurer, the California Life & Health Insurance Guarantee Association limits
+total coverage for any one individual to $300,000—assuming the annuitant
+owns contracts issued by multiple companies (seehttps://www.califega.org/FAQ). Independent rating firms upgraded the
+insurance industry outlook from “negative” to
+“neutral” following the recovery from the global recession.
+However, several carriers with a large share of the US annuity market have
+recently exited the marketplace because the financial guarantees embedded in
+annuity contracts threatened the carriers’ financial condition. In the
+1990s, both Japan and Europe saw multiple carrier insolvencies as mispriced
+guarantees thrust insurance companies into dire financial straits.
+
+
+7The tax regulations for inflation-adjusted annuities differ in
+	                important respects from those applicable to nominal payout annuities.
+
+
+8It is cheaper to buy a lifetime income ofxdollars at age 75 than at age 65, all else being equal.
+	                Generally speaking, the only investors who find SPIA contracts of interest
+	                are those who consider themselves to be in good health. If the investor does
+	                not expect to enjoy a long lifespan, longevity risk is a less important
+	                factor in lifetime income planning. A few carriers write SPIA contracts with
+	                high lifetime payouts for people in poor health. Actuaries call these
+	                contractssubstandard annuities. When such
+	                annuities are customized to compensate people who have been awarded court
+	                judgments for life-impairing injuries, they are known asstructured settlements. Structured settlements may
+	                also be available to people in good health who have won a lawsuit or
+	                lottery.
+
+
+9Holding constant the premium deposit amounts, age, sex, and
+	                annuity underwriting pricing formulas, changes in interest rates over time
+	                generate a “time series of annuity payments.” For example, spending
+	                $100,000 to buy an annuity for a healthy 65-year-old female in 1995 buys a much
+	                higher lifetime income than a comparable annuity purchased for a 65-year-old in
+	                2012.
+
+
+10The SPDA’s lower premium cost does not imply that the SPDA
+	                has lower expenses. Indeed, compared with an SPIA, an SPDA’s load may be
+	                higher because the insurance company must protect itself against adverse
+	                selection—that is, only investors who expect to live a long time are
+	                likely to purchase a contract whose payout is contingent on living to an
+	                advanced age.
+
+
+11The funds under management of outside investment companies may
+	                differ from the similarly named mutual funds offered to investors. For example,
+	                in some cases, the expense structure of the mutual funds may differ from that of
+	                the funds on the VA menu.
+
+
+12The cost structure of VA contracts is complex and lies mainly
+	                outside the scope of this discussion. That said, cost matters—a lot. The
+	                prudent investor should thoroughly investigate the myriad of implicit and
+	                explicit costs associated with this product.
+
+
+13The NAIC is the National Association of Insurance Commissioners.
+	                Insurance companies are regulated primarily at the state level, with the chief
+	                regulatory officer being the state insurance commissioner. The 50 state
+	                commissioners, in turn, belong to the NAIC, which acts as an advisory body
+	                regarding the need to keep or amend current regulatory standards.
+
+
+14Recent events have seen such AAA rated firms as AIG Life and
+	                Hartford Life requiring federal bailout funds to survive the liabilities that
+	                emerged when their financial guarantees were suddenly in the money. Hartford
+	                Life, the company with the largest share of VA sales, exited the VA market.
+
+
+15An estimated 75% of all VA contracts sold in 2005 included riders
+	                with supplemental financial guarantees. Before the recent recession, insurance
+	                carriers were in a race to offer more and more competitive products. Currently,
+	                they appear to have reversed direction and are now in a race to sell products
+	                with increased rider costs and/or decreased rider benefits.
+
+
+16The death benefit is adjusted for aggregate withdrawals before
+	                death.
+
+
+17Unfortunately, the names of the various riders have not become
+	                standardized across the industry. For example, the term GMWB is sometimes used
+	                to describe a GLWB. Companies often have proprietary trademarked designations
+	                for these riders, which further adds to the confusion.
+
+
+18These observations are not criticisms of the insurance
+	                principles underlying the VA contract. Insurance policy buyers hope to
+	                receive no benefits whatsoever for the premium payments made to an
+	                automobile insurance company because they do not wish to be involved in an
+	                accident. However, if the company is charging an annual premium of $2,000 to
+	                insure a vehicle that is worth $1,500, most automobile owners would question
+	                the wisdom of continuing such an arrangement. Gaobo Pang and Mark J.
+	                Warshawsky have noted that modeling a VA with a GMWB is difficult because
+	                “the majority (approximately 70 percent) of the VA+GMWB providers . .
+	                . state in their prospectuses that, upon the automatic step-up or the
+	                investor-elected step-up of GIB [guaranteed income benefit], the contracts
+	                will increase, may increase, or reserve the right to increase the annual
+	                rider percentage charges, subject to the contract maximum rates. Changes in
+	                market conditions may also trigger such fee hikes” (p. 45). See Gaobo
+	                Pang and Mark J. Warshawsky, “Comparing Strategies for Retirement
+	                Wealth Management: Mutual Funds and Annuities,”Journal of Financial Planning, vol. 22, no. 8 (August 2009):
+	                36–47.
+
+
+19In 2014, a working committee of the NAIC recommended that the
+	                GLWB rider be reclassified as a “hybrid annuity.” If the
+	                recommendation is adopted, it is uncertain whether or how it would affect
+	                the taxation of benefits received under the rider.
+
+
+20Vanguard Group, “Annuities Offered through
+	                Vanguard,” cited Morningstar, Inc., as of December 2014.
+
+
+21According to the American Academy of Actuaries, “A CDA is
+	                essentially a stand-alone guaranteed living withdrawal benefit” (p. 2).
+	                Note that in this context, CDA means the same thing as RCDA. See Nancy Bennett,
+	                “An Overview of Contingent Deferred Annuities,” Life Insurance and
+	                Financial Planning Committee, National Conference of Insurance Legislators (25
+	                February 2012).
+
+
+22The insurer is part of the Aegon Americas group of companies. As
+	                of 1 June 2015, the A.M. Best Company rated Transamerica Life Insurance A+ with
+	                respect to financial strength and AA– with respect to its ability to meet
+	                its ongoing financial obligations. Aegon N.V. is an international life
+	                insurance, pension, and investment group based in The Hague, the Netherlands.
+	                The parent company or affiliates, however, may not back the guarantee according
+	                to disclosure information: “The guaranteed lifetime payments are backed by
+	                the claims-paying ability of Transamerica Advisors Life Insurance Company. They
+	                are not backed by any other entity.” Transamerica Advisors Life Insurance
+	                Company carries similar A.M. Best ratings. See provisions of the online
+	                prospectus for Aria RetireOne investment products atwww.sec.gov/Archives/edgar/data/845091/000119312513456163/d635967dfwp.htm.
+
+
+23Aria is an acronym for access to registered investment advisers.
+	                The SALB (stand-alone living benefit) program also refers to this product.
+
+
+24Fees for the lifetime income guarantee are billed directly to the
+	                investor and, unlike in a VA contract, are not paid by liquidating investment
+	                positions within the covered account.
+
+
+25Investors should study the RetireOne prospectus carefully to
+	                understand the contract provisions and options. These provisions include the
+	                ability to exercise options via step-up or ratcheting formulas, payout
+	                adjustments in the event of large interest rate moves, maximum future fee
+	                adjustments, and discounts for large portfolios. Although perhaps not as complex
+	                as VA contracts, RCDAs give investors an abundance of fine print to digest.
+
+
+26The NAIC Working Committee recommends that GLWBs be
+	                classified as “hybrid income annuities” and that RCDAs be
+	                classified as “synthetic hybrid income annuities” (p. 2); see
+	                Contingent Deferred Annuity (A) Subgroup Conference Call Summary (16
+	                February 2012).
+
+
+27Private-letter rulings apply only to the specific taxpayers to
+	                whom they are issued.
+
+
+28RetireOne marketing material states that “benefit payments
+	                to you are subject to ordinary income tax” if paid under the terms of the
+	                RCDA guarantee and that the annuity has “no cash value, surrender value or
+	                death benefit” (pp. 45, 1); see prospectus dated 15 May 2013 as amended
+	                and restated 15 May 2014.
+
+
+29On 26 February 2015, the NAIC stated that a CDA contract
+“establishes a life insurer’s obligation to make periodic payments
+for the annuitant’s lifetime at the time designated investments, which
+are not held or owned by the insurer, are depleted to a contractually defined
+amount due to contractually permitted withdrawals, market performance, fees or
+other charges”.
+On 24 March 2015, the CDA Working Group addressed the issue of whether CDA
+contracts are fixed or variable annuities in its draft “Guidance for the
+Financial Solvency and Market Conduct Regulation of Insurers Who Offer
+Contingent Deferred Annuities,” stating that “because a CDA shares
+qualities of both a fixed and variable annuity, the Working Group concluded that
+a CDA should not be classified in either category but instead belongs in its own
+category” (www.naic.org/documents/committees_a_contingent_deferred_annuity_wg_exposure_cda_guidance_clean.pdf).
+A good recap of regulatory concerns about CDAs can be found in Leslie Scism,
+“New Annuity Guarantees Raise Questions,”Wall
+Street Journal(3 February 2013):https://www.wsj.com/articles/SB10001424127887323468604578247692560852924.
+
+
+30For example, the investor might compare the current cost of an
+	                SPDA in which the payout is contingent on only survival with the present value
+	                of the yearly cost of an RCDA promising to pay a comparable income in which the
+	                payout is contingent on both survival and complete portfolio depletion.

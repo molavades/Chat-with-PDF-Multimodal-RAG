@@ -1,0 +1,55 @@
+
+
+
+1The concepts developed in this discussion, including the notion of
+          customized currency baskets, except for the Global Reserve Currency Index
+          (GRCI), have been developed and presented by Giuseppe Ballocchi at a number of
+          conferences over the years. Hélie d’Hautefort is the creator of
+          the GRCI. See also Ballocchi (2008).
+
+
+2The functions of money were first described by William Stanley
+          Jevons, a British economist (Jevons 1875).
+
+
+3The “streetlight effect” refers to an old joke: A
+          police officer sees a drunk man searching for something under a streetlight
+          and asks him what he is looking for. The drunk says he has lost his keys, and
+          the two men look under the streetlight together. After a few minutes, the
+          officer asks the drunk if he is sure he lost his keys here, and the drunk says
+          no, he lost them in the park. The policeman asks why he is searching here, and
+          the drunk replies, “This is where the light is.”
+
+
+4For the dollar’s replacement of the pound sterling as the
+          world’s reserve currency, see Chitu, Eichengreen, and Mehl (2014);
+          Eichengreen and Flandreau (2009 and 2012); and Eichengreen (2011).
+
+
+5They have also been recently introduced in crisis-stricken
+          eurozone countries, such as Cyprus and Greece.
+
+
+6For central banks, Gintschel and Scherer (2004) advocate a dual
+          benchmark optimization approach for wealth and liquidity
+          preservation.
+
+
+7Seewww.bis.organdwww.imf.org.
+
+
+8Currency basket indexes have been proposed recently by other
+          authors. To our knowledge, the GRCI, introduced in 2009, was the first. The GRCI
+          was developed in response to investor demand for an independent and objective
+          store of global wealth, capable of withstanding currency turmoil and
+          depreciation. It is also used as the reference for recently launched
+          Globcoin®multi-currency accounts. Reserve Currency Solutions
+          owns the intellectual property underpinning the GRCI and produces and maintains
+          the index.
+
+
+9The performance hedged into the GRCI is calculated daily as the
+          sum of the performance of the S&P 500 and of the GRCI itself, both expressed
+          in US dollars. It corresponds to an investment in the S&P 500 together with
+          a foreign exchange overlay into the GRCI (short the US dollar and long the GRCI)
+          for the full amount invested into the S&P 500.

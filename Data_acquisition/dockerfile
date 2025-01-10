@@ -1,0 +1,22 @@
+# Base Airflow image
+FROM apache/airflow:2.10.2
+
+# Switch to root to install system dependencies
+USER root
+
+# Install additional system dependencies and clear apt cache
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libffi-dev \
+    libssl-dev \
+    libxml2-dev \
+    libxslt-dev \
+    zlib1g-dev \
+    libjpeg-dev \
+    libfreetype6-dev
+
+# Switch to airflow user to install Python packages
+USER airflow
+
+# Install additional dependencies
+RUN pip install requests boto3 pymupdf snowflake-connector-python selenium webdriver-manager beautifulsoup4 python-dotenv apache-airflow

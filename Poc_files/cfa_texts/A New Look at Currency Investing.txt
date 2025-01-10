@@ -1,0 +1,12 @@
+The authors of this book examine the rationale for investing in currency. They highlight
+          several features of currency returns that make currency an attractive asset class for
+          institutional investors. Using style factors to model currency returns provides a natural
+          way to decompose returns into alpha and beta components. They find that several
+          established currency trading strategies (variants of carry, trend-following, and value
+          strategies) produce consistent returns that can be proxied as style or risk factors and
+          have the nature of beta returns. Then, using two datasets of returns of actual currency
+          hedge funds, they find that some currency managers produce true alpha. Finally, they find
+          that adding to an institutional investor’s portfolio even a small amount of
+          currency exposure—particularly to alpha generators—can make a meaningful
+          positive impact on the portfolio’s performance.
+

@@ -1,0 +1,314 @@
+Learn about FinTech and RegTech with CFA Institute. Understand how financial and regulatory technology relate through industry regulations and sandboxes.
+Interaction between finance and technology is not novel. The abacus is a testament to the long-standing relationship between the two. But the 2008 global financial crisis (GFC) represented a pivotal moment that separated prior phases of the development of financial technology (FinTech) and regulatory technology (RegTech) from the current paradigm.
+Today, FinTech has entered a phase of rapid development marked by the proliferation of startups and other new entrants, such as IT and ecommerce firms that have fragmented the financial services market. This new era presents fresh challenges for regulators and highlights why the evolution of FinTech necessitates a parallel development of RegTech. In particular, regulators must develop a robust new framework that promotes innovation and market confidence, aided by the use of regulatory "sandboxes."
+Currently in its second stage of development, RegTech is being used by both institutions and regulators to address increasingly cumbersome compliance processes. But regulators have yet to unlock the transformative potential of RegTech. We argue that certain RegTech developments today are highlighting the path toward another paradigm shift, which will be typified by a reconceptualization of the nature of financial regulation. This "RegTech 3.0" will involve a regulatory approach that is as datacentric as the markets it monitors.
+Regulatory and technological developments are changing the nature of financial markets, services, and institutions in ways completely unexpected before the 2008 global financial crisis (GFC). Financial technology, or FinTech, refers to the use of technology to deliver financial solutions.
+The evolution of FinTech has unfolded in three stages. The first stage we characterize as FinTech 1.0—a period that stretches from the laying of the transatlantic telegraph cable to the development of the global telex network and which captures long-standing interactions between technology and finance.
+The second stage, FinTech 2.0, encompasses the pre-GFC period underpinned by the digitization of traditional financial services, beginning with the first ATM and culminating in e-banking. Since the GFC, the rapidity of technological development and the proliferation of startups and IT firms providing financial services have characterized the era of FinTech 3.0.
+The rapid evolution of FinTech demands a similar evolution of RegTech. RegTech, a contraction of the termsregulatoryandtechnology, describes the use of technology, particularly information technology (IT), in the context of regulatory monitoring, reporting, and compliance.
+We also characterize the development of RegTech in a series of stages. RegTech 1.0, a pre-2008 paradigm, was largely driven by industry but involved a partnership with regulators that was based on an overreliance on quantitative internal risk management systems. This stage was followed by RegTech 2.0, an era that is beginning to be driven by financial market participants and regulators who are using technology to enhance regulatory compliance and streamline its component processes.
+We argue that the true potential of RegTech lies in its ability to effect a profound transition from a “know your customer” (KYC) to a “know your data” (KYD) approach—underpinned by efficient and effective processes for the collection, formatting, management, and analysis of reported data, accompanied by a fundamentally datacentric mindset.
+Although the GFC constituted a turning point in both FinTech and RegTech development, these phenomena differ in terms of their underlying factors and beneficiaries. Far from being a subset of FinTech, RegTech should be considered a connected but distinct phenomenon.
+FinTech is not a new concept. The term FinTech can be traced to the early 1990s8and now refers to a rapidly developing evolutionary process across financial services.9This trend only began to attract the attention of regulators,10industry participants, consumers, and academics in 2014, as illustrated inFigure 1.
+The evolution of FinTech has unfolded in three stages, summarized inTable 1. The first, which we call FinTech 1.0, occurred from 1866 to 1967, when the financial services industry remained largely analogue despite being heavily interlinked with technology. The next period, FinTech 2.0, extended from 1968 to 2008, an era characterized by the development of digital technology for communications and transactions and thus the growing digitization of finance. Since 2009, in the period we call FinTech 3.0, new startups and established technology, ecommerce, and social media companies have begun to deliver financial products and services directly to the public as well as to businesses, including banks.11
+Source:Authors’ analysis.
+Essentially, the recent growth of FinTech is attributable to a bottom-up movement driven by tech firms and startups.
+Finance and technology have had a long history of mutual reinforcement. Financial transactions were aided by the emergence of early calculation technologies, such as the abacus. Finance evolved alongside trade, and double entry accounting emerged as a result in the late Middle Ages and Renaissance. The late 1600s saw a European financial revolution featuring the rise of joint stock companies, insurance, and banking—all based on double entry accounting—which was essential to the Industrial Revolution.12The relationship between finance and technology laid the foundations for the modern period.
+In the late 19th century, technologies such as the telegraph, railroads, and steamships helped forge financial connections across borders. In 1866, the fundamental infrastructure that enabled a period of strong financial globalization (stretching from 1866 to 1913) was the laying of the transatlantic telegraph cable,13followed by rapid post–World War II technological developments. By the end of this period, a global telex network had been implemented, which provided the communications foundation on which the next stage of FinTech would unfold.14
+The late 1960s and the 1970s saw rapid advances in electronic payment systems. Indeed, the basis of modern automated clearing services was formed by the establishment of the Inter-Bank Computer Bureau in the United Kingdom in 1968. The USClearing HouseInterbank Payments System followed in 1970, and Fedwire was introduced soon after. Reflecting the need to link domestic payment systems, the Society of Worldwide Interbank Financial Telecommunications (SWIFT) was established in 1973, followed shortly thereafter by the 1974 collapse of Herstatt Bank—an event that highlighted the risks of increasing international financial links. This crisis served as the catalyst for the first major regulatory initiative: the establishment in 1975 of the Basel Committee on Banking Supervision of the Bank for International Settlements, leading to a series of international soft-law agreements.15
+In 1987, “Black Monday” saw stock markets crash globally. The effects were a reminder that global markets were technologically interlinked.16“Circuit breakers” were introduced to control the speed of price changes, spurring securities regulators to create mechanisms to facilitate cooperation. The foundations for the full interconnection of EU financial markets were being laid, including the Single European Act of 1986, the 1986 “big bang” financial liberalization process in the United Kingdom, and the 1992 Maastricht Treaty.
+Advances in the mid-1990s underscored the initial risks of computerized risk management systems, as evidenced by the collapse of Long-Term Capital Management after the Asian and Russian financial crises of 1997–1998.17But the next level of development continued with the provision of online consumer banking by Wells Fargo in 1995. The emergence of the internet in the 1990s provided the foundational change that made FinTech 3.0 possible a decade later.
+During FinTech 2.0, e-banking presented new risks for regulators.18For one thing, electronic bank runs were a possibility because technology facilitated instant withdrawals.19Regulators expected that e-banking providers would be authorized financial institutions—typically, the only entities allowed to describe themselves as “banks."20But FinTech 3.0 called for a radical rethinking of that view.
+Between 2007 and 2008, a confluence of factors provided the impetus for FinTech 3.0 in developed countries. The brand image of banks was severely shaken. A 2015 survey reported that Americans trusted technology firms far more than banks to handle their money.21Today, the same phenomenon exists in China, where over 2,000 peer-to-peer (P2P) lending platforms initially emerged outside any established regulatory framework; and yet lenders and borrowers—because of lower costs, higher potential returns, and increased convenience—remain undeterred.22
+The GFC damaged bank profitability and competiveness, and the ensuing regulation drove compliance costs to record highs while simultaneously restricting credit. Requirements regarding ringfencing, the preparation of recovery and resolution plans, and the performance of stress testing only contributed to rising bank costs.23The GFC further led to large-scale redundancies, leaving many professionals seeking to apply their skills to new outlets.
+The timing of the 2008 GFC also played a critical role in the story of FinTech’s development. It is highly questionable whether FinTech 3.0 would have arisen post-crisis had the GFC occurred five years earlier: FinTech 3.0 has required high levels of smartphone penetration and genuine sophistication regarding application programming interfaces (APIs).24Both technological developments were necessary to provide the consumer interfaces—and interoperability between services and applications—that have underpinned FinTech 3.0.
+The key differentiating factors of FinTech 3.0 are the rapid rate of technology development and the changing identity of the providers of financial services. Startups and technology firms have challenged established financial institutions by offering specific, niche services to consumers, businesses, and incumbent financial institutions.
+FinTech 3.0 has been characterized by the rapid growth of companies from “too small to care” to “too large to ignore” to, finally, “too big to fail.” Naturally, the primary regulatory approach in FinTech 2.0 was to concentrate regulatory efforts on systemically important institutions. However, today’s more fragmented landscape raises the important question for regulators of preciselywhenthey should begin to focus on certain industry participants. This issue prompted Chinese regulatory authorities to reevaluate their own approach in 2015.25It also highlights why the evolution of FinTech requires similar developments in RegTech. A flexible, multi-level approach should be implemented so that regulatory requirements are imposed with varying intensity depending on the size and risk of firms. Essentially, regulators will need to work closely with industry to understand changing market dynamics and to develop approaches that promote innovation while balancing risks and eliminating opportunities for regulatory arbitrage. The latter was manifested in the run-up to the GFC in the form of financial institutions shifting their activities to underregulated markets.
+FinTech has expanded in scope, now covering the full spectrum of finance and financial services. It can be delineated into five key areas: finance and investment, internal operations and risk management, payments and infrastructure, data security and monetization, and consumer interfaces. A common image of FinTech is that of alternative financing mechanisms, such as P2P lending (facilitated by a platform). But FinTech also encompasses the integration of technology in such financial transactions ascrowdfundingand algorithmic trading. And FinTech plays a large role in institutions’ internal operations, as evidenced by the high levels of spending that large financial institutions invest in enhancing their IT capabilities. For example, one-third of the current staff at Goldman Sachs are engineers, and 60% of the staff have STEM (science, technology, engineering, mathematics) backgrounds.26FinTech is also being used by IT and telecommunications firms to disintermediate the trading and settlement of securities (and OTC derivatives).
+Today, FinTech affects every area of the global financial system, with perhaps the most dramatic impact in China, where such technology firms as Alibaba, Baidu, and Tencent have transformed finance. China’s inefficient banking infrastructure and high technology penetration make it a fertile ground for FinTech development. Emerging markets, particularly in Asia and Africa, have begun to experience what we characterize as FinTech 3.5, an era of strong FinTech development supported by deliberate government policy choices in pursuit of economic development.
+FinTech development in Africa has been led by telecommunications companies on the back of two factors: the rapid uptake of mobile telephones and the underdeveloped nature of banking services. Mobile money—the provision of basic transaction and savings services through e-money recorded on a mobile phone—has been particularly successful in Kenya and Tanzania.27Mobile money has significantly spurred economic development by providing customers with a means to securely save and transfer funds, pay bills, and receive government payments. M-Pesa, launched in 2007, remains Africa’s best-known success story.28Within a period of five years, payments made via M-Pesa exceeded 43% of Kenya’s GDP.29
+FinTech 3.5 is supported by (1) high penetration of mobile devices (especially with broadband internet access) among the young and technologically literate, (2) the growth of the middle class, (3) untapped market opportunities, (4) a lack of physical banking infrastructure, (5) consumers increasingly valuing convenience over trust, (6) low levels of competition, and (7) weaker data protection requirements. The spike in the number of graduates with engineering and technology degrees in such economies as China and India has also played a role in planting FinTech firmly in the soil of those economies.30
+Going forward, we can expect the convergence of FinTech developments in developed and developing markets, as depicted inFigure 2. This era, FinTech 4.0, will be characterized by increasing monetization of data and reliance on digital identity, which we believe is the new frontier in terms of a future regulatory framework, as we explain in the remainder of the paper.
+RegTech refers to technological solutions that streamline and improve regulatory processes. Like FinTech, RegTech has unfolded in three stages. The first stage, RegTech 1.0, was led by large financial institutions that integrated technology into their internal processes to combat rising compliance costs and complexity, as epitomized in the Basel II Capital Accord. The second stage, RegTech 2.0, has been driven by new post-GFC regulatory requirements and the costs to the financial industry of their implementation. At the same time, regulators are seeking to mirror the increasingly digitized nature of the markets they monitor and to enhance their capacity to analyze the rising volumes of data generated by post-GFC reporting obligations. In the future, RegTech will exhibit its greatest potential in the third stage of its development—RegTech 3.0—in which technology will help us reconceptualize finance and its regulation: to build a better financial system. Ultimately, we argue that the increasingly datacentric nature of both FinTech and RegTech has the potential to prompt a shift from a KYC paradigm to a KYD mindset.
+Instead of being seen as an evolving subcategory of FinTech, RegTech should be viewed as a separate phenomenon. In contrast to FinTech’s inherently financial focus, RegTech has the potential to be applied in many regulatory contexts. Possibilities include monitoring corporations’ compliance with environmental regulations and real-time tracking of the location of airliners, to name but two simple examples of how technology could be used to improve not only regulation but also the regulated industry itself. Further, the development of FinTech and the development of RegTech have been underpinned by different driving forces. FinTech growth has been fueled by startups, which have leveraged public distrust in the financial services industry, the commoditization of technology, and the recent rise in unemployed professionals seeking new ways to apply their skill sets. In comparison, RegTech has emerged in response to top-down institutional demand arising from the exponential growth of compliance costs.31
+RegTech as a sector has seen different stages of development (discussed in the next section), as shown inFigure 3, which identifies three distinct phases. The first two phases represent the application of technology in regulatory monitoring and reporting to drive cost reduction benefits. In the future, however, it is expected that RegTech will leverage on data to perform market monitoring and firm compliance differently than is currently done. In other words, RegTech 1.0–2.0 represents the digitization of regulatory processes, whereas RegTech 3.0 is about a regulatory framework for the digital age.
+Global financial regulation has historically been reactive, evolving primarily in response to crises. For example, the first Basel Accord was the result of financial deregulation in the 1970s and the ensuing Developing Country Debt Crisis of 1982.32
+More recent regulatory changes have similarly been in response to the GFC. The period from the late 1960s through 2008 was characterized by the growing scope and scale of financial institutions and markets.33Global conglomerates arose from organic growth and a string of mergers and acquisitions—the 1999 merger of Travelers Group and Citicorp being a quintessential example.34
+As institutions grew and became more global, they increasingly encountered operational and regulatory challenges, catalyzing the development of large compliance, legal, and risk management departments in the 1990s and early 2000s. By the 1980s, financial technology was being used to facilitate risk management as finance itself became increasingly quantitative and reliant on rapidly developing IT systems. Financial engineering and value at risk (VaR) systems became embedded in major financial institutions,35ultimately proving to be among the greatest risks underlying the GFC.36
+By the beginning of the 21st century, both the financial industry and regulators suffered from overconfidence in their ability to use a quantitative IT framework to manage and control risks.37Regulator overconfidence was evident in the unduly heavy reliance that the Basel II Capital Accord placed on the internal quantitative risk management systems of the financial institutions themselves.38This reliance provided a false sense of security that was brutally exposed by the GFC and that ended the first iteration of RegTech.
+Another illustration of RegTech 1.0 can be found in the monitoring of public securities markets. To detect unusual behavior,39such as insider trading, regulators often rely on the trade-reporting systems maintained by securities exchanges. Once such behavior is detected, regulators can then investigate the activity for any misconduct. Clearly, however, the GFC also exposed the limitations of these systems—notably, they cannot shed light on transactions that occur off the exchange, such as trading via ECNs (electronic communication networks) anddark pools.40
+In their characteristically reactive fashion, major regulators around the world have begun mandating the reporting of all transactions in listed securities, regardless of where they take place. Such reporting requirements will have to be met with enhanced regulator IT systems to analyze the reported information—an enhancement that is being made as part of the next stage of RegTech’s development.
+RegTech 2.0 has emerged in response to the increasingly heavy post-GFC global financial regulations. Post-crisis regulatory reforms, including anti–money laundering (AML) and KYC requirements, have transformed the operations of financial -institutions—reducing their risk taking, profitability, and scope of operations.41Post-2008 waves of complex, prescriptive, and lengthy regulation have drastically increased the cost of compliance and have been accompanied by steep increases in regulatory penalties.42Regulatory fines and settlements have increased a staggering 45-fold;43i n one survey, 87% of banking CEOs indicated that the costs of compliance were a source of disruption. Let’s Talk Payments LLC reported that “the annual spending by financial institutions on compliance is estimated to be in excess of US$70 billion.”44
+Adding to rising costs is the increasing fragmentation of the regulatory landscape. Despite attempts to establish similar post-crisis reforms, different markets can have substantially different rules for implementing those reforms. Regulatory overlaps and contradictions are not uncommon, and financial institutions have, unsurprisingly, looked to RegTech to optimize their compliance management.45The constantly evolving regulatory landscape has also introduced uncertainty regarding future regulatory requirements, prompting financial institutions to invest in improving their own adaptability.
+In essence, the implementation of far-reaching, extensive regulatory reforms has driven the evolution of IT and compliance in major financial institutions worldwide.46Compliance costs present a powerful economic incentive for the development of more efficient compliance systems—and innovative technologies present a natural solution. Indeed, traditional financial institutions (particularly large global banks) have driven RegTech’s post-2008 evolution by developing centralized risk management and compliance functions to address a dynamic regulatory landscape.47
+Regulators in need of greater granularity and precision in dealing with data aggregation and analysis are now exploring the applications of RegTech.48From a regulatory perspective, digitization and datafication49of processes would empower regulators to cope more effectively with the increasing types and volumes of data reported by companies. RegTech can also help regulators understand innovative products and transactions, market manipulation, and risks in closer to real time.50
+The global investment bank’s Bangalore operations, with 5,400 people, is already the largest outside its New York headquarters, where it has 12,000 employees. The Bangalore office, established 10 years ago, has seen its headcount rise at a compounded annual growth rate of about 19% over the past five years. Early signs of more efficient and effective regulatory regimes are already beginning to emerge.51However, the digitization and datafication of regulatory processes represent only an incremental evolution toward a more efficient regulatory framework. RegTech potentially offers more: Deep learning and artificial intelligence filters could provide continuous -monitoring and close-to-real-time insights, which identify problems in advance rather than support enforcement action later. The uptake of RegTech among industry participants requires regulators to apply technology to their own internal processes, which constitutes a fundamental element of what we call RegTech 2.0.
+Although RegTech development has been driven predominantly by industry participants aiming to reduce their compliance costs, the next stage is likely to be driven by regulators wishing to improve their supervisory capacity.
+RegTech has evolved rapidly in the financial industry, especially in large global financial institutions and such infrastructure providers as securities exchanges. But a disconnect exists between the uptake of RegTech among industry participants and the uptake among regulators, of which the latter are becoming acutely aware.52RegTech provides the foundation for a shift toward a proportionate, risk-based approach—RegTech 2.0—underpinned by efficient data management and market supervision.53AI (artificial intelligence) and deep learning are just two examples of new technologies that demonstrate the potential for automating consumer protection, market supervision, and prudential regulation.54
+RegTech 2.0 primarily concerns the digitization and datafication of regulatory compliance and reporting processes. Not only does it represent a natural response to the digitization of finance and the fragmentation of industry participants,55but it also has the potential to minimize the risks of the regulatory capture that occurred before the GFC.56Regulators in the United States, the United Kingdom, Australia, and Singapore have already begun attempts to develop a fresh regulatory approach that caters to the dynamics of the FinTech market.57
+Examples of fertile areas for RegTech development include (1) application of big data approaches, (2) the strengthening of cybersecurity, and (3) the facilitation of macroprudential policy. With respect to big data, regulators are starting to consider technological solutions for the management of AML/KYC information produced by industry participants—notably, suspicious transaction reports. Strong IT capabilities for analyzing data provided in response to reporting requirements are paramount if regulators are to achieve the requirements’ underlying objectives.58
+Cybersecurity represents one of the most pressing issues facing the financial services industry59— one that has attracted the attention of the Financial Stability Board (FSB) and the Basel Committee and that further underscores the necessity of continued regulatory development.60T he shift toward a data-based industry is inevitably accompanied by a rising threat of theft and fraud.
+Macroprudential policy offers yet another promising ground for the evolution of RegTech. It ultimately seeks to soften the severity of the financial cycle by using large volumes of reported data to identify patterns, interconnections, and changes over time.61Central banks, including the European Central Bank, the Bank of England, and the Federal Reserve, are making progress in identifying leading indicators of financial instability.62This progress has taken the form of data “heat maps,” which alert regulators to potential problems identified through a process of quantitative analysis and stress testing of large masses of data.63
+These early efforts indicate the probable direction of RegTech toward the area of macroprudential policy, occurring against the backdrop of regulators continually identifying needs for ever more data.64The additional reporting requirements for institutions further drive the need for the refinement of RegTech processes and the establishment of centralized support services to manage both the data and the required formats. Risk data aggregation requirements have been established by the Basel Committee (in “BCBS 239”), which also encourage institutions and regulators to focus their internal processes on near-real-time delivery and analysis.65The need to streamline data analysis by harmonizing reporting templates has also been identified by the FSB and the IMF (International Monetary Fund).66
+The regulatory framework for finance is in need of rethinking. And RegTech 3.0 is our term for the future of RegTech. The FinTech sector is shifting its focus from the digitization of money to the monetization of data, making it necessary for new frameworks to accommodate new concepts, such as data sovereignty and algorithm supervision. A sequenced approach to the development of FinTech within a RegTech framework is necessary.
+The primary barrier to RegTech’s development is not technological limitations but, rather, the ability of regulators to process the large volumes of data that the technology itself generates.67Regulators need to adopt a coordinated approach that seeks to harmonize financial regulations and support the continued development of RegTech.
+The new datacentricity underpinning the evolution of both FinTech and RegTech represents the early stages of a profound paradigm shift from a KYC approach to a KYD approach. As this shift unfolds, regulators must invest heavily in the development of proportionate, data-driven regulation in order to deal effectively with innovation without compromising their mandate.
+Sandboxesare virtual environments used to test and examine the impacts of innovative new processes or technologies in isolation. The UK Financial Conduct Authority (FCA) has led progress in this area, with its Project Innovate unit announcing that sandboxes are a “safe space in which businesses can test innovative products, services, business models, and delivery mechanisms without immediately incurring all the normal regulatory consequences of engaging in the activity of question.”68The FCA’s sandbox has three core objectives: (1) to reduce time to market, (2) to improve access to finance, and (3) to encourage innovation.69
+The FCA has limited access to its regulatory sandbox to a certain number of applicants with a detailed testing plan for a certain duration.70Successful applicants will need to demonstrate that they have a genuinely innovative solution that (1) requires sandbox testing, (2) is intended to support the financial services industry, and (3) offers consumers a clearly identifiable benefit. For firms operating in this space, the sandbox presents a unique and valuable opportunity to test innovations more efficiently by temporarily circumventing ordinary licensing obligations. Access to the sandbox will occur in phases.71
+Given the inherent importance of ensuring that regulators continue to uphold their original mandates—namely, systemic stability and consumer protection—the FCA has proposed four alternative approaches to facilitating consumer engagement within the sandbox.72The first approach is an informed consent model, according to which firms may try their innovations only on customers who have given their informed consent. The second is a case-by-case discretionary model, which grants the FCA discretion to determine the particular consumer protection and compensation approach to the testing of a specific innovation. The third approach endows customers involved in testing with the same rights that customers outside the sandbox enjoy, including the right to engage the UK Financial Ombudsman Service. The final proposed approach focuses on compensation, requiring participating firms to demonstrate a willingness and ability to compensate any losses suffered by customers.
+The FCA has taken the lead in the development of a robust and structured framework for the efficient testing of innovative financial products and services. Such regulatory sandboxes exhibit great promise in supporting the future development of RegTech. For instance, economic analysis and agent-based modeling techniques can be used to simulate the practical impact of proposed new policies. At the same time, although the term sandbox seems novel in the financial services context (and actually has its origin in computer science), the use of simulations, stress tests, and war games has become increasingly common among financial regulators and market participants—and we would characterize all of these as “sandbox” activities in the RegTech space. Indeed, such techniques have already been used extensively in analyzing the potential impacts of regulation by the FSB, the BIS (Bank for International Settlements), and the Basel Committee. These bodies have developed quantitative impact studies on an international level, in addition to the economic analysis of regulatory impact by regulators in individual jurisdictions. But there is great potential for extending these approaches more broadly, with the area of conceptualizing consumer interactions probably the most challenging. In this respect, efforts in the social sciences to design human experiments, as well as in the pharmaceutical industry, offer important lessons.
+The regulatory authorities of numerous other jurisdictions have also expressed an openness to the use of sandboxes, including Abu Dhabi,73Australia,74Malaysia,75Hong Kong,76Singapore,77Switzerland,78and Thailand.79
+Regulatory sandboxes are shaping up to be fundamental to the development of new regulatory approaches. The fragmentation of the financial services industry and the pace of innovation support the use of sandboxes, which may be used not only for the trial of novel products generated by industry but also for the testing of new and more flexible approaches by regulators.
+The long-standing marriage of technology and finance has been continuously evolving. This paper has traversed the three stages of FinTech’s evolution and the two stages, to date, of RegTech’s evolution. FinTech today exhibits great promise in both emerging economies, where several underlying factors—rising smartphone penetration, inefficient traditional financial systems, and behavioral shifts among consumers—present fertile ground for FinTech development, and developed economies, where current investment in FinTech is increasing at a staggering pace.
+In the near future, regulators will come under increasing pressure to adapt to the newly fragmented market comprising major banks, established tech firms, and lean startups. RegTech can be used to help authorities not only monitor and regulate industry participants but also identifywhento do so.Figure 4illustrates how different stages in the growth of companies warrant different and proportionate regulatory approaches. But as FinTech or TechFin80companies grow in significance, they will move from “too small to care” to “too big to fail,” creating a regulatory risk as regulators’ traditional monitoring thresholds fail to be triggered at an appropriate stage.
+In the wake of increased compliance burdens, regulators will need to work with FinTech and RegTech players to (1) understand how data are being collected and processed, (2) take a coordinated approach to harmonizing compliance requirements across markets, (3) develop standardized reporting formats, and (4) enhance data sharing among regulators and transform the way in which such data are used. The rapid development of FinTech thus demands the rapid development of RegTech.
+Over the past 50 years, the ways regulators have harnessed technology have changed considerably, as regulators attempt to reflect and understand an increasingly digitized industry. Since the GFC, the masses of data generated to respond to new regulatory demands have spurred the use of technology to facilitate and streamline compliance, which we consider the first element of RegTech 2.0. Regulator adoption of technology to improve supervisory capacity will be the second element of RegTech 2.0 but is still at a very early stage.
+RegTech offers benefits to both industry and regulators. For industry, it can empower financial institutions to control costs and risks more effectively, liberate surplus regulatory capital,81and present new opportunities for FinTech startups, advisory firms, and tech companies.82For regulators, it allows the development of continuous-monitoring tools to identify problems as they develop and reduce the time it takes to investigate compliance breaches;83it also fosters the development of simulation systems and sandboxes, which can identify the likely consequences of proposed reforms and new approaches.
+RegTech’s truly transformative potential lies in its capacity to enable the real-time monitoring of financial markets, thereby facilitating a reconceptualization of financial regulation. Markets are evolving to rely more on data. The institution with the most data on borrowers will be best placed to assess their credit risk and extend them credit, and those institutions increasingly are more likely to be large tech companies (e.g., Google, Alibaba, Apple) or retail conglomerates operating customer loyalty schemes, rather than traditional financial institutions. The evolution of this new form of financial service provider will, in turn, demand further evolution of RegTech as the market moves from relying on KYC-type information to a KYD paradigm, with consequentially transformative effects on finance and its regulation.
+
+
+
+See Douglas W. Arner, Jànos Barberis, and Ross P. Buckley, “The Evolution of FinTech: A New Post-Crisis Paradigm?”Georgetown Journal of International Law, vol. 47, no. 4 (2016): 1271–1319.
+
+
+Arner et al., “The Evolution of FinTech.”
+
+
+Arner et al., “The Evolution of FinTech.”
+
+
+See Institute of International Finance,RegTech in Financial Services: Technology Solutions for Compliance and Reporting(Washington, DC: Institute of International Finance, March 2016): 5–8.
+
+
+Christophe Chazot, quoted in Institute of International Finance,RegTech: Exploring Solutions for Regulatory Challenges(Washington, DC: Institute of International Finance, October 2015): 2.
+
+
+See R. Buckley and D. Arner,From Crisis to Crisis: The Global Financial System and Regulatory Failure(London: Kluwer 2011).
+
+
+See D. Arner, J. Barberis, and R. Buckley, “FinTech, RegTech and the Reconceptualization of Financial Regulation,”Northwestern Journal of International Law & Business(forthcoming 2017).
+
+
+Marc Hochstein, “Fintech (the Word, That Is) Evolves,”American Banker(2015):https://www.americanbanker.com/opinion/fintech-the-word-that-is-evolves.
+
+
+See Chloe Wang, “Financial Technology Booms as Digital Wave Hits Banks, Insurance Firms,”ChannelNews Asia(2015). See also Gareth Lodge, Hua Zhang, and Jacob Jegher, “IT Spending in Banking: A Global Perspective,”Celent(2015):http://celent.com/reports/it-spending-banking-global-perspective-2.
+
+
+See the section on RegTech (later in this paper), which explains the increasing rise in regulator activity as measured by the number of “regulatory sandboxes” announced.
+
+
+David Gyori, “FinTech Is the Future Itself,” inThe FinTech Book, edited by Susanne Chishti and Jànos Barberis (Chichester, UK: John Wiley & Sons, 2016): 265.
+
+
+Charles More,Understanding the Industrial Revolution(London: Routledge, 2000): 36.
+
+
+See Tom Standage,The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-line Pioneers(New York: Bloomsbury, 1998).
+
+
+Fax Authority,The History of Fax: From 1843 to Present Day(http://faxauthority.com/fax-history/).
+
+
+Bank for International Settlements,History of the Basel Committee and Its Membership(2016):http://www.bis.org/bcbs/history.pdf.
+
+
+Richard Bookstaber,A Demon of Our Own Design(Hoboken, NJ: John Wiley & Sons, 2007): 7–32.
+
+
+Philippe Jorion, “Risk Management Lessons from Long-Term Capital Management,”European Financial Management, vol. 6, no. 3 (September 2000): 277–300 (http://merage.uci.edu/~jorion/papers%5Cltcm.pdf).
+
+
+Jànos Barberis, “The 2007 Meltdown: A Legal Phenomenon,” PhD dissertation (University of Birmingham, 2012):https://ssrn.com/abstract=2296812.
+
+
+David Carse, “The Regulatory Framework of E-banking” (keynote speech, Hong Kong Monetary Authority, 1999):http://www.bis.org/review/r991012c.pdf.
+
+
+UK Government,Incorporation and Names(2016): https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/418150/GP1_Incorporation_names_v5_4-ver0.29-4.pdf.
+
+
+Let’s Talk Payments LLC, “Survey Shows Americans Trust Technology Firms More Than Banks and Retailers” (25 June 2015).
+
+
+JD Alois, “China Releases Draft Peer to Peer Lending Rules. Asks for Comments,”Crowdfund Insider(28 December 2015):http://www.crowdfundinsider.com/2015/12/79400-china-releases-draft-peer-to-peer-lending-rules-asks-for-comment/.
+
+
+See Roberto Ferrari, “The End of Universal Bank Model?” inThe FinTech Book, edited by Susanne Chishti and Jànos Barberis (Chichester, UK: John Wiley & Sons, 2016):https://medium.com/the-fintech-book/the-end-of-universal-bank-model-a52964b21d48. See also Barberis, “The 2007 Meltdown,” 60.
+
+
+We thank David Link for making the point that sophisticated APIs were necessary to underpin much FinTech 3.0 activity (Melbourne Money and Finance Conference, 18 July 2016).
+
+
+See Weihuan Zhou, Douglas W. Arner, and Ross P. Buckley, “Regulation of Digital Financial Services in China: Last Mover Advantage,”Tsinghua China Law Review, vol. 8, no. 1 (2015): 25–62.
+
+
+Jonathan Marino, “Goldman Sachs Is a Tech Company,”Business Insider Australia(2015):http://www.businessinsider.com/goldman-sachs-has-more-engineers-than-facebook-2015-4.
+
+
+CGAP, “Infographic: Tanzania’s Mobile Money Revolution” (Washington, DC: Consultative Group to Assist the Poor, 2014):http://www.cgap.org/data/infographic-tanzanias-mobile-money-revolution.
+
+
+Daniel Runde, “M-Pesa and the Rise of the Global Mobile Money Market,”Forbes(12 August 2015):http://www.forbes.com/sites/danielrunde/2015/08/12/m-pesa-and-the-rise-of-the-global-mobile-money-market/.
+
+
+ICEF, “China and India to Produce 40% of Global Graduates by 2020,”ICEF Monitor(International Consultants for Education and Fairs, 16 July 2012):http://monitor.icef.com/2012/07/china-and-india-to-produce-40-of-global-graduates-by-2020/.
+
+
+See Institute of International Finance,RegTech: Exploring Solutions for Regulatory Challenges(October 2015):https://www.iif.com/topics/regtech/regtech-exploring-solutions-regulatory-challenges.
+
+
+Federal Reserve Board, “Capital Standards for Banks: The Evolving Basel Accord,”Federal Reserve Bulletin(September 2003): 395–405 (https://www.federalreserve.gov/pubs/bulletin/2003/0903lead.pdf).
+
+
+See Ross P. Buckley, “The Changing Nature of Banking and Why It Matters,” inReconceptualising Global Finance and Its Regulation, edited by Ross Buckley, Emilios Avgouleas, and Douglas Arner (Cambridge, UK: Cambridge University Press, 2016): 9–27.
+
+
+See Ross P. Buckley, “The Changing Nature of Banking and Why It Matters,” inReconceptualising Global Finance and Its Regulation, edited by Ross Buckley, Emilios Avgouleas, and Douglas Arner (Cambridge, UK: Cambridge University Press, 2016): 9–27.
+
+
+See Joe Nocera, “Risk Mismanagement,”New York Times Magazine(2 January 2009):http://www.nytimes.com/2009/01/04/magazine/04risk-t.html.
+
+
+There are many ways in which the VaR model is unreliable. See Simon Johnson and James Kwak, “Seduced by a Model,”Economix(blog),New York Times(1 October 2009):http://economix.blogs.nytimes.com/2009/10/01/seduced-by-a-model/. See also Andreas Krause, “Exploring the Limitations of Value at Risk: How Good Is It in Practice?”Journal of Risk Finance, vol. 4, no. 2 (Winter 2003): 19–28.
+
+
+See Felix Salmon, “The Formula That Killed Wall Street,”Significance, vol. 9, no. 1 (February 2012): 16–20.
+
+
+See Harald Benink and George Kaufman, “Turmoil Reveals the Inadequacy of Basel II,”Financial Times(27 February 2008):https://www.ft.com/content/0e8404a2-e54e-11dc-9334-0000779fd2ac. See also International Monetary Fund/World Bank, “Implementation of Basel II—Implications for the World Bank and the IMF” (22 July 2005):http://www.imf.org/external/np/pp/eng/2005/072205.htm#s2.
+
+
+IOSCO,Technological Challenges to Effective Market Surveillance Issues and Regulatory Tools: Consultation Report(Madrid: Board of the International Organization of Securities Commissions, August 2012): 14–15.
+
+
+SEC Commissioner Luis A. Aguilar, “Shedding Light on Dark Pools,” SEC Public Statement (18 November 2015):http://www.sec.gov/news/statement/shedding-light-on-dark-pools.html#_edn5.
+
+
+See generally Ross P. Buckley, “Reconceptualizing the Regulation of Global Finance,”Oxford Journal of Legal Studies, vol. 36, no. 2 (Summer 2016): 242–271.
+
+
+See Jeff Cox, “Misbehaving Banks Have Now Paid $204B in Fines” (CNBC; 30 October 2015) :http://www.cnbc.com/2015/10/30/misbehaving-banks-have-now-paid-204b-in-fines.html.
+
+
+Piotr Kaminski and Kate Robu, “A Best-Practice Model for Bank Compliance,” McKinsey & Company (January 2016):http://www.mckinsey.com/business-functions/risk/our-insights/a-best-practice-model-for-bank-compliance.
+
+
+Let’s Talk Payments LLC, “A Report on Global RegTech: A $100-Billion Opportunity—Market Overview, Analysis of Incumbents and Startups” (18 April 2016).
+
+
+See Eleanor Hill, “Is RegTech the Answer to the Rising Cost of Compliance?”FX-MM(13 June 2016):
+
+
+See Buckley, Avgouleas, and Arner,Reconceptualising Global Finance and Its Regulation.
+
+
+See Ernst & Young, “Centralized Operations: The Future of Operating Models for Risk, Control and Compliance” (2014):http://www.ey.com/gl/en/services/advisory/centralized-operations-the-future-of-operating-models-for-risk-control-and-compliance.
+
+
+Institute of International Finance,RegTech: Exploring Solutions for Regulatory Challenges(October 2015): 5–8.
+
+
+See Kenneth Cukier and Viktor Mayer-Schönberger,Big Data: A Revolution That Will Transform How We Live, Work and Think(London: John Murray, 2013).
+
+
+See Hannah Augur, “Regtech: The 2016 Buzzword Is Turning Heads,”Dataconomy(3 May 2016):http://dataconomy.com/regtech-the-2016-buzzword-is-turning-heads/.
+
+
+Institute of International Finance,RegTech: Exploring Solutions for Regulatory Challenges(October 2015): 9.
+
+
+See Sir Mark Walport,FinTech Futures: The UK as a World Leader in Financial Technologies, Report of the UK Government Chief Scientific Adviser (March 2015): 48 (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413095/gs-15-3-fintech-futures.pdf).
+
+
+See Ernst & Young, “Innovating with RegTech: Turning Regulatory Compliance into a Competitive Advantage” (2016): 10
+
+
+See M. Najafabadi, F. Villanustre, T. Khoshgoftaar, N. Seliya, R. Wald, and E. Muharemagic, “Deep Learning Applications and Challenges in Big Data Analytics,”Journal of Big Data, vol. 2 (24 February 2015): 1–21 (https://journalofbigdata.springeropen.com/articles/10.1186/s40537-014-0007-7).
+
+
+See Global Partnership for Financial Inclusion, “G20 High-Level Principles for Digital Financial Inclusion” (2016): 12.
+
+
+See Douglas Arner and Jànos Barberis, “FinTech in China: From the Shadows?”Journal of Financial Perspectives, vol. 3, no. 3 (December 2015): 78–91
+
+
+See Mark Adams, “Fintech: ASIC’s Approach and Regulatory Issues,” paper presented at the 21st Melbourne Money and Finance Conference (July 2016): 10–12; ASIC, “Further Measures to Facilitate Innovation in Financial Services,” Consultation Paper 260, Australian Securities and Investments Commission (June 2016).
+
+
+See Ravi Kalakota, “RegTech—Regulatory/Risk Data Management, AML, and KYC Analytics,”Business Analytics 3.0(blog; 17 January 2013). See also KPMG, “Ten Key Regulatory Challenges Facing the Banking & Capital Markets Industry in 2016” (2015): 2 (http://kpmg.com.au/portals/0/N13616ADV_Top10_Regularity_FS-WEB.pdf).
+
+
+Sarah Dahlgren (executive vice president of the Federal Reserve Bank of New York), “The Importance of Addressing Cybersecurity Risks in the Financial Sector” (speech, OpRisk North America Annual Conference, New York City, 24 March 2015).
+
+
+See FSOC,FSOC 2016 Annual Report, Financial Stability Oversight Council (2016).
+
+
+See Financial Stability Board, “Elements of Effective Macroprudential Policies” (31 August 2016):http://www.fsb.org/2016/08/elements-of-effective-macroprudential-policies/.
+
+
+See BIS Committee on the Global Financial System, “Experiences with the Ex Ante Appraisal of Macro-Prudential Instruments,” CGFS Paper 56 (July 2016); see also Blaise Gadanecz and Kaushik Jayaram, “Macroprudential Policy Frameworks, Instruments and Indicators: A Review,” working paper (BIS Irving Fisher Committee on Central Bank Statistics, December 2015).
+
+
+See “Elements of Effective Macroprudential Policies” (31 August 2016):http://www.fsb.org/2016/08/elements-of-effective-macroprudential-policies/.
+
+
+See IMF/FSB, “The Financial Crisis and Information Gaps: Second Phase of the G-20 Data Gaps Initiative (DGI-2), First Progress Report” (September 2016):https://www.imf.org/external/np/g20/pdf/2016/090216.pdf.
+
+
+Basel Committee on Banking Supervision, “Principles for Effective Risk Data Aggregation and Risk Reporting,” Bank for International Settlements (January 2013):http://www.bis.org/publ/bcbs239.htm.
+
+
+Basel Committee, “Principles for Effective Risk Data Aggregation and Risk Reporting” (January 2013):http://www.bis.org/publ/bcbs239.htm.
+
+
+See Walport,FinTech Futures, 53 (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/413095/gs-15-3-fintech-futures.pdf).
+
+
+Financial Conduct Authority, “Regulatory Sandbox” (November 2015): 4 (https://www.fca.org.uk/publication/research/regulatory-sandbox.pdf).
+
+
+See Financial Conduct Authority, “Project Innovate and Innovation Hub” (11 May 2015; last updated 22 August 2016):https://www.fca.org.uk/firms/project-innovate-innovation-hub.
+
+
+See Andrew Moyle and Fiona Maclean, “World-First Regulatory Sandbox Open for Play in the UK,” Latham & Watkins (9 May 2016): 1 (https://www.lw.com/thoughtLeadership/LW-world-first-regulatory-sandbox-open-for-play-in-UK).
+
+
+The first cohort could apply to enter the sandbox between 9 May 2016 and 8 July 2016, and the second cohort was due to start in January 2017.
+
+
+Financial Conduct Authority, “Regulatory Sandbox” (November 2015): 4 (https://www.fca.org.uk/publication/research/regulatory-sandbox.pdf).
+
+
+Abu Dhabi Global Market, “Abu Dhabi Global Market Sets Out Proposal for Fintech Regulatory Framework in the UAE,” press release (10 May 2016).
+
+
+Moyle and Maclean, “World-First Regulatory Sandbox Open for Play in the UK” (9 May 2016): 1 (https://www.lw.com/thoughtLeadership/LW-world-first-regulatory-sandbox-open-for-play-in-UK).
+
+
+Bank Negara Malaysia, “Discussion Paper on Fintech Regulatory Sandbox,” press release(29 July 2016)
+
+
+Reuters, “Hong Kong Regulator to Launch Fintech ‘Sandbox’” (5 September 2016):http://www.reuters.com/article/hongkong-banks-regulator-idUSH9N18001M.
+
+
+Monetary Authority of Singapore, “MAS Proposes a ‘Regulatory Sandbox’ for FinTech Experiments,” media release (6 June 2016):https://www.mas.gov.sg/news/media-releases/2016/mas-proposes-a-regulatory-sandbox-for-fintech-experiments.
+
+
+Swiss Financial Market Supervisory Authority, “FINMA Reduces Obstacles to FinTech,” press release (17 March 2016):https://www.finma.ch/en/news/2016/03/20160317-mm-fintech/.
+
+
+See “Forming a Fintech Family,”Bangkok Post(14 September 2016):http://www.bangkokpost.com/business/news/1085544/forming-a-fintech-family.
+
+
+See Dirk A. Zetzsche, Ross P. Buckley, Douglas W. Arner, and Janos N. Barberis, “From FinTech to TechFin: The Regulatory Challenges of Data-Driven Finance,” Working Paper 6, European Banking Institute Working Paper Series (May 2017).
+
+
+Citigroup, “Comment Letter on Regulatory Capital Rules: Enhanced Supplementary Leverage Ratio Standards for Certain Bank Holding Companies and Their Subsidiary Insured Depository Institutions” (21 October 2013): 3 (https://www.federalreserve.gov/SECRS/2013/October/20131030/R-1460/R-1460_102113_111420_579523237031_1.pdf). See John Heltman, “Long-Term Liquidity Plan Is Costly and Redundant, Banks Argue,”American Banker(12 August 2016):http://www.americanbanker.com/news/law-regulation/long-term-liquidity-plan-is-costly-and-redundant-banks-argue-1090708-1.html.
+
+
+Adrian Shedden and Gareth Malna, “Supporting the Development and Adoption of RegTech: No Better Time for a Call for Input,” Burges Salmon (2016): 2 (https://www.burges-salmon.com/-/media/files/publications/open-access/supporting_the_development_and_adoption_of_regtech_no_better_time_for_a_call_for_input.pdf).
+
+
+Daniel Gutierrez, “Big Data for Finance—Security and Regulatory Compliance Considerations,”insideBIGDATA(20 October 2014):http://insidebigdata.com/2014/10/20/big-data-finance-security-regulatory-compliance-considerations/.
