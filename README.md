@@ -16,26 +16,13 @@ An interactive RAG based application built using FastAPI and Streamlit to explor
 
 With the rapid growth of publications, it has become increasingly challenging to analyze complex documents, interpret images and graphs, and derive meaningful business insights. This project aims to create a robust solution that allows users to interact with documents through Q&A functionality. By leveraging Retrieval-Augmented Generation (RAG), the application provides relevant responses, images, and graphs specific to user questions, simplifying the analysis process and enabling users to obtain accurate insights efficiently. The application primarily focuses on:
 
-- **1. Content Extraction and Storage**: Extract content from the CFA Institute Research Foundation website, loading files onto S3 and storing textual data, such as titles and summaries, in a Snowflake database.
-- **2. Automated Data Ingestion**: Automate the data ingestion process with an Airflow pipeline, ensuring efficient and structured data handling.
-- **3. API Endpoints**: Develop multiple API endpoints to support services like document exploration and dropdown selection for document access, RAG interaction with UI.
-- **4. Real-Time Summary Generation**: Generate document summaries on the fly using NVIDIA’s advanced services.
-- **5. Multi-Modal RAG with Cleanlabs Integration**: Implement multi-modal RAG to enhance response relevance and integrate Cleanlabs for response trustworthiness.
-- **6. Comprehensive Report Generation**: Create reports that include responses, images, and graphs relevant to user queries for a richer understanding.
-- **7. Research Notes Validation and Indexing**: Validate, store, and incrementally index research notes to facilitate efficient future searches and analysis.
-
-### Scope
-The project encompasses several key areas that work together to create a comprehensive solution:
-
-The Data Ingestion Pipeline utilizes Apache Airflow to orchestrate the scraping and processing of CFA publications. This system automatically extracts text and images from documents, ensuring all content is properly captured and organized for further processing.
-
-Our Storage Solution combines AWS S3 for document storage with Snowflake for metadata management. This dual-storage approach ensures that both structured and unstructured data are handled efficiently while maintaining quick access capabilities.
-
-The Multi-modal RAG Implementation represents the core of our system. It processes both text and images intelligently, understanding the relationships between different content types and enabling sophisticated query responses. This system ensures that users receive contextually relevant information from their queries.
-
-The User Interface provides an intuitive way to interact with the system. Through Streamlit, we've created a responsive frontend that allows users to explore documents, ask questions, and generate comprehensive reports. The interface is designed to be both powerful and easy to use.
-
-The Backend Services, built with FastAPI, handle all the complex processing while ensuring security and performance. These services manage everything from user authentication to document analysis, providing a robust foundation for the entire system.
+**1. Content Extraction and Storage**: Extract content from the CFA Institute Research Foundation website, loading files onto S3 and storing textual data, such as titles and summaries, in a Snowflake database.
+**2. Automated Data Ingestion**: Automate the data ingestion process with an Airflow pipeline, ensuring efficient and structured data handling.
+**3. API Endpoints**: Develop multiple API endpoints to support services like document exploration and dropdown selection for document access, RAG interaction with UI.
+**4. Real-Time Summary Generation**: Generate document summaries on the fly using NVIDIA’s advanced services.
+**5. Multi-Modal RAG with Cleanlabs Integration**: Implement multi-modal RAG to enhance response relevance and integrate Cleanlabs for response trustworthiness.
+**6. Comprehensive Report Generation**: Create reports that include responses, images, and graphs relevant to user queries for a richer understanding.
+**7. Research Notes Validation and Indexing**: Validate, store, and incrementally index research notes to facilitate efficient future searches and analysis.
 
 ## Architecture Diagram:
 ![multi-modal_rag_system](https://github.com/user-attachments/assets/0efea28d-9969-48b4-8fb9-2073f7508273)
