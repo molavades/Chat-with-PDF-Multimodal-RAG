@@ -102,7 +102,6 @@ Comprehensive interface for document interaction:
 4. Chat with PDF ![image](https://github.com/user-attachments/assets/6aa78500-f337-4b8a-9acf-114b1a8e320f)
 
 
-
 ## Setup and Deployment
 
 ### Prerequisites
