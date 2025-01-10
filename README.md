@@ -83,16 +83,6 @@ Comprehensive interface for document interaction:
   - Summary generation
   - Report creation
 
-## Technical Details
-
-### Data Flow
-1. **Data Ingestion**
-
-2. **Document Processing**
-
-3. **RAG Implementation**
-
-
 ## Deployment
 Containerization of FastAPI and Streamlit applications using Docker
 Deployment to a public cloud platform using Docker Compose
@@ -101,21 +91,21 @@ Providing clear instructions for users to interact with the RAG application and 
 The FastAPI and Streamlit are containerized using Docker, and orchestrated through docker compose and the Docker images are pushed to Docker Hub. For deploying the Docker containers, we use an Google Cloud Platform (GCP)
 
 
-### Data Source
-CFA Institute Research Foundation Publications: https://rpc.cfainstitute.org/en/research-foundation/publications#sort=%40officialz32xdate%20descending&f:SeriesContent=%5BResearch%20Foundation%5D
+## Data Source
+1. CFA Institute Research Foundation Publications: https://rpc.cfainstitute.org/en/research-foundation/publications#sort=%40officialz32xdate%20descending&f:SeriesContent=%5BResearch%20Foundation%5D
 
-### Screenshots 
+## Screenshots 
 
-Landing Page
+1. Landing Page
 ![image](https://github.com/user-attachments/assets/b8f77f0e-6bd3-44d7-abf5-f4628cfa483c)
 
-Dashboard Page
+2. Dashboard Page
 ![image](https://github.com/user-attachments/assets/7a273217-67a1-4bd6-a973-6f3f807758b3
 
-Document Analysis Page
+3. Document Analysis Page
 ![image](https://github.com/user-attachments/assets/38b586dc-9527-45d8-bf1a-2931285866ca)
 
-Chat with Pdf Page
+4. Chat with Pdf Page
 ![image](https://github.com/user-attachments/assets/6de65f3d-669f-4817-a295-796b8b81b96b)
 
 
