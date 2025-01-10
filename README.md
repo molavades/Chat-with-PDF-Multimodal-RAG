@@ -100,7 +100,7 @@ Comprehensive interface for document interaction:
 ![image](https://github.com/user-attachments/assets/b8f77f0e-6bd3-44d7-abf5-f4628cfa483c)
 
 2. Dashboard Page
-![image](https://github.com/user-attachments/assets/7a273217-67a1-4bd6-a973-6f3f807758b3
+![image](https://github.com/user-attachments/assets/edf5a4ab-3040-4719-b497-0fdb4775a2c9)
 
 3. Document Analysis Page
 ![image](https://github.com/user-attachments/assets/7ad8543e-a435-4874-8824-176bc1e638bc)
