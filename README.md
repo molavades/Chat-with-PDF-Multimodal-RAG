@@ -84,11 +84,11 @@ Comprehensive interface for document interaction:
   - Report creation
 
 ## Deployment
-Containerization of FastAPI and Streamlit applications using Docker
-Deployment to a public cloud platform using Docker Compose
-Ensuring public accessibility of the deployed applications - Streamlit and FastAPI
-Providing clear instructions for users to interact with the RAG application and explore its functionalities
-The FastAPI and Streamlit are containerized using Docker, and orchestrated through docker compose and the Docker images are pushed to Docker Hub. For deploying the Docker containers, we use an Google Cloud Platform (GCP)
+- Containerization of FastAPI and Streamlit applications using Docker
+- Deployment to a public cloud platform using Docker Compose
+- Ensuring public accessibility of the deployed applications - Streamlit and FastAPI
+- Providing clear instructions for users to interact with the RAG application and explore its functionalities
+- The FastAPI and Streamlit are containerized using Docker, and orchestrated through docker compose and the Docker images are pushed to Docker Hub. For deploying the Docker containers, we use an Google Cloud Platform (GCP)
 
 
 ## Data Source
@@ -103,10 +103,10 @@ The FastAPI and Streamlit are containerized using Docker, and orchestrated throu
 ![image](https://github.com/user-attachments/assets/7a273217-67a1-4bd6-a973-6f3f807758b3
 
 3. Document Analysis Page
-![image](https://github.com/user-attachments/assets/38b586dc-9527-45d8-bf1a-2931285866ca)
+![image](https://github.com/user-attachments/assets/7ad8543e-a435-4874-8824-176bc1e638bc)
 
 4. Chat with Pdf Page
-![image](https://github.com/user-attachments/assets/6de65f3d-669f-4817-a295-796b8b81b96b)
+![image](https://github.com/user-attachments/assets/c4d03af1-a1d5-4fae-ba78-fd47148b59aa)
 
 
 ## Setup and Deployment
